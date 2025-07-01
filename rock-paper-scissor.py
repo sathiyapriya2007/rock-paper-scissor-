@@ -1,4 +1,4 @@
-#it is module that acts as pc
+#random is the  module in python 
 import random
 choice=input('choose to play pc/person:')
 if choice=='pc':
